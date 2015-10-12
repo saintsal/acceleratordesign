@@ -342,16 +342,16 @@ This guide is intended as a living document. If it's valuable, it will evolve as
      - Fragmentation
 
 - Accelerator business models
-    -As platforms
-    -Scalability
-    -Defensiibility
-        -What to measure
+     -As platforms
+     -Scalability
+     -Defensiibility
+        - What to measure
         - Culture
         - Cohorts or not
-    - Design considerations
+     - Design considerations
         - Programme length
         - Energy-levels
-    -Selection
+     -Selection
         - Brand
         - Criteria
         - Interview / pitch techniques
