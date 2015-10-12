@@ -42,24 +42,34 @@ It's worth noting, as a veteran in the industry, that there are significant diff
 
 ## The definition of accelerator
 The definition of accelerator has shifted over time, including increasingly diverse programmes. A few core elements:
+
 - They support early stage companies
+
 - They group startups by their next major goal and structure group support accordingly. 
+
 - They have a clear end date for support.
 
 ## Misconceptions about accelerators
 There a quite few major misconceptions about the definition of an accelerator.  Understanding them will help us design better programmes. 
+
 ### An accelerator must operate with cohorts.  
 Seedcamp and HackFWD are two very successful cases that chose to select only the best startups they could find. They rejected the strict cohort model, since it would force them to select among what was available in a given time window.
+
 ### Everyone must share the same office space. 
 Y Combinator and Seedcamp don't insist that startups work from their space. The support they offer is designed to give startups independence and pull resources as needed.
+
 ### The programme must be a seed investor.  
 Microsoft operates one of the world's most successful accelerator networks - and they don't take equity. This allows them to work with startups who are not only there because of their strategic fit to Microsoft, but they also attract a higher calibre of startup who reject the low valuations placed on them by standard accelerators.
+
 ### Support necessarily ends at the end of the programme.  
 While setting a clear end date in advance creates a healthy relationship with startups, the reality is that the successful startups receive support after the programme. Plus, the best accelerators have strong alumni groups. 
+
 ### Accelerators only support startup teams with 2 or 3 co-founders. 
 EntrepreneurFirst, whose portfolio companies are valued at $150 million, invests in individuals even before they have an idea or a team.
+
 ### Total investment raised indicated success.
 Total investment raised is usually a number cited by franchise accelerator networks - it seems impressive, but is misleading.  Looking for *average* investment raised, or percentage of startups that reach profitablity or exit usually tells a much starker story. 
+
 ### The main goal of an accelerator is to help startups raise money from investors. 
 The most successful accelerators add value beyond pitch practice and an investor network. In fact, some accelerators like Camden's Creative Accelerator help creative people launch SMEs.  
 
@@ -72,17 +82,28 @@ It's one thing to design business models on paper, and quite another to design t
 No matter how much you plan in advance, or how large your team, you're going to face long hours.  On top of scheduling everything, taking care of the legals, and getting your teams settled in, almost everything will be a moving target.  Each startup will be 
 
 ### Selection is a black art
-In spite of investment theses and modeling and research, you'll be sitting in a room 
+In spite of investment theses and modeling and research, selection usually comes down to artitrary and committee decisions. After hearing pitches, you'll have a long meeting, making in or out calls, often on gut feeling.  These decisions force you to predict the future on very little information. They're the most crucial decisions you'll make in the entire programme, and they're irreversible.
 
 ### The winners become visible soon
+Within the first month of the programme, you'll see which teams were good investments - not always from progress, but from seeing how they work together and how they execute.  At this point, different partners will start to favour certain teams, and by the end of the programme, you'll generally have written off a few teams informally to focus on leaders in the race.
+
 ### The Pipeline problem
+The startup and accelerator bubble have created a pipeline problem.  There are more and more accelerators on the market, attracting more and more people to create startups. Overall, this is a great thing!  But for your accelerator, you'll be competing among other accelerators for novice startup founders who mostly see accelerators as a commodity service, or worse, a necessary evil to get funded.  In the past, acceleraters all had thousands of applications, so it was possible to select 10 solid, investable teams from the pipeline.  Now, it's common to have several hundred applications.  Pickings are slim.
+
 ### Reputation
-### Hacking & fishing
+The exception to this rule are the accelerators that have built a solid reputation among their alumni.  The most savvy entrepreneurs, the ones you want, work through reputation and introduction. They learn from existing alumni, not from the brand accelerator's portray.  Founders have come to distrust websites citing a long list of mentors - who they know probably won't show up - or industry accolades.  These techniques only attract the least investible - reputation is what counts.
+
+### Roadshows & fishing
+In these conditions, opening your doors won't lead to a flood of applications. In many ways, the cohort model has become outdated, but it still serves to create a little bit of buzz so founders know you exist. But to get decent applications, accelerators need to go fishing.  This involves touring pitch events and conferences, as well as partners living on planes for weeks and months as they scour the region to find and lure in the best startups they can find.
+
+### Hacking
+Investors and founders alike are excited by big success stories, and it's become common to "hack in" winning teams.  This is when you accidentally reject a team at selection, or fail to attract a great team to apply.  In these cases, the startup usually negotiates a more favourable deal than your standard offer, and enters the programme late.  This allows accelerators to show their success overall, but the hacking is usually kept quite since that success wouldn't be attributed to the support itself.
+
 
 # Acceleration Goals 
-Now that we have a clear picture of the situation, we can see that we can find ourselves doing a lot of hard work for nothing if we're not careful.
+Now that we have a clear picture of the situation, we can see why custom designing a programme around our goals will have a tremendous effect on our efficiency.
 
-So let's start with our goals, the startup goals, and work our way backwards to find where we can be most effective.
+So let's start with our goals, our startups goals, and work our way backwards to find where we can be most effective.
 
 *What specific goals do have in common with your founders?*
 
@@ -131,6 +152,7 @@ You'll notice the culture will form fairly quickly as the cohort coalesces. Ther
 1. To some degree, this will be driven by a few alpha founders. Be wary of strong personalities that oppose your ideals during selection - they can counter-act your desired attitudes across the cohort.
 
 2. Plant seeds in terms of story-telling and hero worship. Ask in founders for dinner to share their war stories. Ask them to be inclusive - welcoming the cohort to their club. Read biographies of founders you'd like to see emulated - and tell "did you know?" stories. Print posters with startup advice, or even imgur memes if appropriate. Get strong quotes printed as vinyl decals for you wall - like in museums.
+
 3. Be sensitive to your own behaviour, especially in the first few weeks of the programme. It's worth being clear and direct in terms of expectations from the outset. My typical advice is, "You're all expected to multiply your valuation by 5 or more in the next 90 days. This means you'll have to aim for big leaps and learnng every week - if you're stuck on something for 2 weeks, you're probably a goner. You'll have to get rid of lead times, like waiting for customers or advisors to reply - put the programme to work by asking for the connections you'll need. And you'll be expected to support each other, spot when another startup is stuck and dislodge them." If you catch yourself reprimanding or commanding teams, you'll risk ending up with a primary-school dynamic with your teams, rather than a one that emphasises taking responsibility and being open.
     
 
@@ -200,9 +222,11 @@ There's very little margin for error. A few hours per week wasted, or a week or 
 
 Having a few clear acceleration goals serves three purposes:
 
-    They help attract quality applicants in your pipeline.
-    They align your startups' motivations with your own.
-    They serve as a guide for programme design decisions.
+1. They help attract quality applicants in your pipeline.
+
+2.  They align your startups' motivations with your own.
+    
+3. They serve as a guide for programme design decisions.
 
 Contrarily, having too many goals, or adding elements to your programme that are incongruent with everyone's goals (often just because you've seen them in another accelerator) leads to tension.
 
@@ -226,19 +250,19 @@ Don't underestimate the size of that if though.
 
 Ignite100, in the UK, dropped it's demo day. This was a bold move, but understandable to many UK accelerators.
 
-    The issue is context; a demo day achieves little beyond proving a founder can deliver a slick slide-deck based on a tried-and-tested, and quite tired formula.
+> The issue is context; a demo day achieves little beyond proving a founder can deliver a slick slide-deck based on a tried-and-tested, and quite tired formula.
 
-    There are fundamental issues from a team's point of view. One founder must write scripts, design slides, be coached within an inch of their lives, practice once or more a day, every day for weeks. At the same time, programme managers demand teams double-down on their efforts to build a business. For a team of just two or three founders, being expected to be investment ready whilst simultaneously preparing for demo day effectively ties a hand behind their backs.
+> There are fundamental issues from a team's point of view. One founder must write scripts, design slides, be coached within an inch of their lives, practice once or more a day, every day for weeks. At the same time, programme managers demand teams double-down on their efforts to build a business. For a team of just two or three founders, being expected to be investment ready whilst simultaneously preparing for demo day effectively ties a hand behind their backs.
 
 - Paul Smith, Ignite100's programme director
 
 Replacing Demo Day with a more continuous approach to investor/startup match-making relieves the strain:
 
-    We wanted to ensure that every team joining Ignite would be backed by successful angels who cared about supporting new talent and technology.
+> We wanted to ensure that every team joining Ignite would be backed by successful angels who cared about supporting new talent and technology.
 
-    We were inspired by one of our investors, who last year performed his own experiment; feeling the London tech investment scene was more fragmented than most considered it to be, Doug Scott arranged (and attended) a series of 13 lunches over consecutive days, each attended by over 20 VCs, angel investors and other guests from his address book. The result? Every day, a roomful of people made new contacts, discussed portfolios and opportunities and expanded their own personal and professional networks.
+> We were inspired by one of our investors, who last year performed his own experiment; feeling the London tech investment scene was more fragmented than most considered it to be, Doug Scott arranged (and attended) a series of 13 lunches over consecutive days, each attended by over 20 VCs, angel investors and other guests from his address book. The result? Every day, a roomful of people made new contacts, discussed portfolios and opportunities and expanded their own personal and professional networks.
 
-    So instead of herding 150 people into a dark room, we're going to try a similar experiment; we'll hold a series of lunches in London, perhaps over two or three days - for founders, investors, press and invited guests. Teams will still need to convey their stories, they'll still need to demonstrate their prototypes, but these events will provide the opportunity for relationships to be further explored and strengthened in a more intimate, informal setting. There'll be a finite amount of invites available - no more spray and pray - and instead of robbing investors of up to half of their workday, a lunch better-fits with their daily routine.
+> So instead of herding 150 people into a dark room, we're going to try a similar experiment; we'll hold a series of lunches in London, perhaps over two or three days - for founders, investors, press and invited guests. Teams will still need to convey their stories, they'll still need to demonstrate their prototypes, but these events will provide the opportunity for relationships to be further explored and strengthened in a more intimate, informal setting. There'll be a finite amount of invites available - no more spray and pray - and instead of robbing investors of up to half of their workday, a lunch better-fits with their daily routine.
 
 ## Round-robin Mentoring 
 
@@ -285,6 +309,7 @@ They generally stick to the standard 3 months, with round-robin mentoring, and a
 What they discover, other than general structural improvements to the program, are who and how they can help best. So next time, they have a more specific sense of who qualifies and why, adapting their model around their investment thesis. I've seen programs shift selection and support towards a B2B, sports-only, emerging trends like Internet Of Things, or particular tech stacks, but only after it was clear this made sense from actual startup progress.
 
 This is learning that can only be acted on at the end of cohort #1, so the directors know getting their ASAP is a worthy goal. They say hindsight is 20/20, so better get some hindsight!
+
 ## Challenge The Model
 
 A lot of program directors challenge the standard 3-month + demo model from the outset. Paul Orlando at AccelerateHK originally tried a range of program lengths, iCatapult in Budapest added 9-months of post-demo day support, Searchcamp focuses on educating founders, Collective Accelerator gives access to free debt rather than taking equity.
