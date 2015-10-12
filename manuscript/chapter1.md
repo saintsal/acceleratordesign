@@ -78,7 +78,7 @@ The most successful accelerators add value beyond pitch practice and an investor
 
 
 # Behind the scenes
-It's one thing to design business models on paper, and quite another to design them in practice.  Let's dig in behind the scenes a bit, and look at what some of the unspoken truths:
+It's one thing to design an accelerator on paper, and quite another to run them in practice.  Let's dig in behind the scenes a bit, and look at what some of the unspoken truths:
 
 ## Accelerators mean long hours
 No matter how much you plan in advance, or how large your team, you're going to face long hours.  On top of scheduling everything, taking care of the legals, and getting your teams settled in, almost everything will be a moving target.  Each startup will be 
