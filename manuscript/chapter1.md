@@ -335,12 +335,12 @@ If you have the chance, join us for a retreat, where accelerators, universities 
 
 This guide is intended as a living document. If it's valuable, it will evolve as the industry evolves. That said, it's still quite narrow in scope, so here are some topics I'd like us to cover. Happy to take guidance from you about what to research and write-up next.
 
-Topics
 - The Disruption of Accelerators
      - Market niches
      - Industry verticals and horizontals
      - Low-end and pre-accelerators
      - Fragmentation
+
 - Accelerator business models
     -As platforms
     -Scalability
@@ -371,6 +371,7 @@ Topics
         - Downline implications
         - Founders' perspectives
         - Signalling implications
+
 - Tools
      - Progress-based (PPPs, Canvas)
      - Business Model Canvas-based (Stratgyzer, Lean Launchpad)
