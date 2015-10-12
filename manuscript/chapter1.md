@@ -304,6 +304,7 @@ Installing a culture and structure of peer-support that focuses on avoiding whee
   
 
 # Approaches To Design 
+
 ## Just Do It, then Iterate
 
 Whether starting an accelerator for a region, or a particular vertical, or a type of founder, these accelerator directors simply hit the ground running, with a view that the important changes will come from experience after the first cohort.
@@ -335,112 +336,53 @@ If you have the chance, join us for a retreat, where accelerators, universities 
 This guide is intended as a living document. If it's valuable, it will evolve as the industry evolves. That said, it's still quite narrow in scope, so here are some topics I'd like us to cover. Happy to take guidance from you about what to research and write-up next.
 
 Topics
+- The Disruption of Accelerators
+     - Market niches
+     - Industry verticals and horizontals
+     - Low-end and pre-accelerators
+     - Fragmentation
+- Accelerator business models
+    -As platforms
+    -Scalability
+    -Defensiibility
+        -What to measure
+        - Culture
+        - Cohorts or not
+    - Design considerations
+        - Programme length
+        - Energy-levels
+    -Selection
+        - Brand
+        - Criteria
+        - Interview / pitch techniques
+    -Education
+        - Alumni & mentor formats
+        - Location
+    - Virtual components
+    - Ecosystems
+    - Portfolio management
+         - Write-offs
+         - Team and roles
+         - Founder support
+         - Legals and admin
+         - Intros
+    - Investment structure
+        - Fundraising
+        - Downline implications
+        - Founders' perspectives
+        - Signalling implications
+- Tools
+     - Progress-based (PPPs, Canvas)
+     - Business Model Canvas-based (Stratgyzer, Lean Launchpad)
+     - Pitch Bingo
+     - Pipeline & Ecosystem management (Angellist. f6s)
 
-    The Disruption of Accelerators
-        Market niches
-        Industry verticals and horizontals
-        Low-end and pre-accelerators
-        Fragmentation
-    Accelerator business models
-        As platforms
-        Scalability
-        Defensiibility
-    What to measure
-    Culture
-        Cohorts or not
-    Design considerations
-        Programme length
-        Energy-levels
-    Selection
-        Brand
-        Criteria
-        Interview / pitch techniques
-    Education
-    Alumni & mentor formats
-    Location
-        Virtual components
-        Ecosystems
-    Portfolio management
-        Write-offs
-    Team and roles
-    Founder support
-        Legals and admin
-        Intros
-    Investment structure
-        Fundraising
-        Downline implications
-        Founders' perspectives
-        Signalling implications
+- Facilitation Techniques
+     - Office Hours
+     - Cohort Report
+     - Story-telling and lore
+     - Show-and-tell
+     - Dinners
+     - Prototype days
+     - Foosball
 
-Tools
-
-    Progress-based (PPPs, Canvas)
-    Business Model Canvas-based (Sttatgyzer, Lean Launchpad)
-    Pitch Bingo
-    Pipeline & Ecosystem management (Angellist. f6s)
-
-Facilitation Techniques
-
-    Office Hours
-    Cohort Report
-    Story-telling and lore
-    Show-and-tell
-    Dinners
-    Prototype days
-    Foosball
-This guide is intended as a living document. If it's valuable, it will evolve as the industry evolves. That said, it's still quite narrow in scope, so here are some topics I'd like us to cover. Happy to take guidance from you about what to research and write-up next.
-
-Topics
-
-    The Disruption of Accelerators
-        Market niches
-        Industry verticals and horizontals
-        Low-end and pre-accelerators
-        Fragmentation
-    Accelerator business models
-        As platforms
-        Scalability
-        Defensiibility
-    What to measure
-    Culture
-        Cohorts or not
-    Design considerations
-        Programme length
-        Energy-levels
-    Selection
-        Brand
-        Criteria
-        Interview / pitch techniques
-    Education
-    Alumni & mentor formats
-    Location
-        Virtual components
-        Ecosystems
-    Portfolio management
-        Write-offs
-    Team and roles
-    Founder support
-        Legals and admin
-        Intros
-    Investment structure
-        Fundraising
-        Downline implications
-        Founders' perspectives
-        Signalling implications
-
-Tools
-
-    Progress-based (PPPs, Canvas)
-    Business Model Canvas-based (Sttatgyzer, Lean Launchpad)
-    Pitch Bingo
-    Pipeline & Ecosystem management (Angellist. f6s)
-
-Facilitation Techniques
-
-    Office Hours
-    Cohort Report
-    Story-telling and lore
-    Show-and-tell
-    Dinners
-    Prototype days
-    Foosball
