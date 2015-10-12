@@ -216,7 +216,7 @@ Just like there's a difference between learning to be a hacker, and learning how
 
 We need information to respond to our founders' needs, whether implicit or explicit. Ingraining the use of tools and formats that allow us insight into their thinking and decisions can give us this visibility regularly.
 
-# Design Around The Founders' Jobs-to-be-done 
+# Design Around The Founders' Job
 
 Strip away the unnecessary.
 
