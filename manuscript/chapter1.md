@@ -2,7 +2,7 @@
 
 This guide covers a set of guiding principles, specific design tools and techniques - and a set of questions to help frame your design decisions.
 
-I've been intrinsically involved in over 20 accelerators and 4 university entrepreneurship programmes, designing and delivering the bulk of their education.  I've builT Founder Centric and recently Source Institute to do this on a larger scale.
+I've been intrinsically involved in over 20 accelerators and 4 university entrepreneurship programmes, designing and delivering the bulk of their education.  I've built Founder Centric and recently Source Institute to do this on a larger scale.
 
 Over the years, clients have asked us to design their programmes. We continue to work closely with Seedcamp, UCL, Oxford University, Microsoft Ventures, The Royal Academy Of Engineering, to name a few.
 
