@@ -1,14 +1,14 @@
 # The Accelerator Design Guide
 
-This guide covers a set of guiding principles, specific design tools and techniques - and a set of questions to help frame your design decisions.
+This guide covers a set of guiding principles, specific design tools and techniques - to help you design the best accelerator possible for you needs.
 
-I've been intrinsically involved in over 20 accelerators and 4 university entrepreneurship programmes, designing and delivering the bulk of their education.  I've built Founder Centric and recently Source Institute to do this on a larger scale.
+I've been intrinsically involved in over 20 accelerators and 4 university entrepreneurship programmes, designing and delivering the bulk of their education.  I've built Founder Centric, recognised as one of the best startup education companies in Europe, and recently Source Institute, a global institute that develops startup education in extremely hard-to-reach and new contexts.
 
 Over the years, clients have asked us to design their programmes. We continue to work closely with Seedcamp, UCL, Oxford University, Microsoft Ventures, The Royal Academy Of Engineering, to name a few.
 
 We've seen accelerators move startups faster and help founders achieve their goals countless times. And we've been a driving force in evolving the accelerator model.
 
-## How to create an accelerator that accelerates
+## A personal note: please create an accelerator that accelerates
 
 As the accelerator industry blossoms, the accelerator model is being applied in far more diverse contexts, like creative businesses, industry verticals, corporate R&D, and niche markets. 
 
@@ -20,7 +20,9 @@ In almost all other contexts, this model is inappropriate and extremely ineffeci
 
 We've designed successful accelerators in most of these contexts, and been close to others who've done the same.
 
-We wrote this guide to share these lessons learned, so you have the best start possible.
+We wrote this guide to share these lessons learned, so you have the best start possible. 
+
+If we can help in any way, whether it's a phone call or a new section to this guide, please let us know.  Let's build accelerators that actually accelerate.  We're behind you ready to help.
 
 Salim Virani
 Founder, Source Institute
@@ -32,6 +34,8 @@ Y Combinator is widely cited as the first accelerator.  It was started in 2005 i
 The initial programme was a combination of hands-on investing and incubator. Paul would invest in student startup ideas - giving them the resources and support they needed over their summer holidays.  The length of the programme? Three months - over the summer break.  The investment amount?  Slightly more than a student could make at a summer job.
 
 This marked a new model in business incubation: the accelerator.  The key difference was that the business support was organised around cohorts of businesses at a similar stage with a similar goal - in this case, onward seed investment.  There was a predefined expiry date on the support, but those that were successful had a clear path to another stage of support.
+
+This expiry date was a much healthier way to structure startup support for companies with a particular goal. It wasn't a long-term relationship like a landlord or an IP owner hoping to benefit without adding more value. It said, we'll help you acheive something sepecific by a certain deadline - much faster than you could acheive that on your own. If we fail, we call it quits. If we succeed, you'll be set to move on to the next level because of us. 
 
 Y Combinator moved to Silicon Valley in 2009, and expanded its intake (called a pipeline in the industry) to include more than students.  It maintained its basic structure, in which its partners have weekly contact with each startup, and the startups are largely expected to work independently and pull in Y Combinator's resources as needed.
 
@@ -48,7 +52,7 @@ The definition of accelerator has shifted over time, including increasingly dive
 
 - They support early stage companies
 
-- They select startups that have similar goals
+- They limit support to startups that have similar goals
 
 - They structure group support according to those goals, creating a common pool of resources
 
@@ -59,53 +63,70 @@ The definition of accelerator has shifted over time, including increasingly dive
 There are quite a few major misconceptions about the definition of an accelerator.  Understanding them will help us design better programmes. 
 
 ## An accelerator must operate with cohorts.  
-Seedcamp and HackFWD are two very successful cases that chose to select only the best startups they could find. The cohort model forces an accelerator to select among startups that are best in a given time window. They instead chose to select the best overall, and invest on-demand if necessary.
+Seedcamp and HackFWD are two very successful cases that chose to select only the best startups they could find. The cohort model forces an accelerator to select among startups that are best in a given time window. They instead chose to select the best overall. This means they invest on-demand and are never forced to invest in a startup to fill their programme.
 
 ## Everyone must share the same office space. 
 Y Combinator and Seedcamp don't insist that startups work from their space. The support they offer is designed to give startups independence and pull resources as needed.
 
 ## The programme must be a seed investor.  
-Microsoft operates one of the world's most successful accelerator networks - and they don't take equity. This allows them to work with startups that are not only there because of their strategic fit to Microsoft, and they also attract a higher calibre of startups who reject the low valuations placed on them by standard accelerators.
+Microsoft operates one of the world's most successful accelerator networks - and they don't take equity. This allows them to work with startups that have the best strategic fit to Microsoft, regardless of their valuation or investibility. They also attract a higher calibre of startups who reject the low valuations placed on them by standard accelerators.
 
 ## Support necessarily ends at the end of the programme.  
-While setting a clear end date in advance creates a healthy relationship with startups, the reality is that the successful startups receive support after the programme. Plus, strong alumni groups are often the most valuable offering to ambitious founders.
+While setting a clear end date in advance creates a healthy relationship with startups, the reality is that the successful ones receive support after the programme. Plus, strong alumni groups are often the most valuable offering to ambitious founders. Post-programme support, especially the accessibility and culture of the alumni, is the major deciding factor for the best startups.
 
 ## Accelerators only support startup teams with 2 or 3 co-founders. 
-EntrepreneurFirst, whose portfolio companies are valued at $150 million, invests in individuals even before they have an idea or a team. This allows them to choose among the best, without competition from other accelerators. 
+EntrepreneurFirst, whose portfolio companies are valued at $150 million, invests in individuals even before they have an idea or a team. This allows them to choose among the top-quality founders without competition from other accelerators. 
 
 ## Total investment raised indicates success.
-Total investment raised is usually a number cited by franchise accelerator networks - it seems impressive, but is misleading.  Looking for *average* investment raised, or a percentage of startups that reach profitability or exit tells a much more accurate story. 
+Total investment raised is usually a number cited by franchise accelerator networks - it seems impressive, but is very misleading.  Looking for *average* investment raised, or a percentage of startups that reach profitability or exit tells a much more accurate story. 
 
 ## The main goal of an accelerator is to help startups raise money from investors. 
-The most successful accelerators add value beyond pitch practice and an investor network. The best have a history of helping the businesses make key customer deals, scale up their operations and hire the world's best. This is consistent outside of high-growth startups; some accelerators like Camden's Creative Accelerator help creative people launch SMEs.  The true value in the programme is rarely the money.
+The most successful accelerators add value beyond pitch practice and an investor network. The best have a history of helping the businesses make key customer deals, scale up their operations and hire the world's best. 
 
+On top of this, accelerators work outside of high-growth or investor-backed industries; some accelerators like Camden's Creative Accelerator help creative people launch SMEs.  
+
+In all cases, the true value of an accelerator is never the money.
 
 # Behind the scenes
-It's one thing to design an accelerator on paper, and quite another to run them in practice.  Let's dig in behind the scenes a bit, and look at what some of the unspoken truths:
+It's one thing to design an accelerator on paper, and quite another to run them in practice.  Let's dig in behind the scenes a bit, and look at some of common but unspoken truths that will paint a clearer picture:
 
 ## Accelerators mean long hours
 No matter how much you plan in advance, or how large your team, you're going to face long hours.  On top of scheduling everything, taking care of the legals and getting your teams settled in, almost everything will be a moving target.  Each startup will be on its own path, and will need different types of support from you at different times.
 
 ## Selection is a black art
-In spite of investment theses and modelling and research, selection usually comes down to arbitrary and committee decisions. After hearing pitches, you'll have a long meeting, making in-or-out calls, often on gut feeling.  These decisions force you to predict the future on very little information. They're the most crucial decisions you'll make in the entire programme, and they're irreversible.
+In spite of investment theses and modelling and research, selection usually comes down to arbitrary and committee decisions. After hearing pitches, you'll have a long meeting, making in-or-out decisions, often on gut feeling.  These decisions force you to predict the future on very little information. Yet, they're the most crucial decisions you'll make in the entire programme. And they're irreversible. 
 
 ## The winners become visible soon
 Within the first month of the programme, you'll see which teams were good investments - not always from progress, but from seeing how they work together and how they execute.  At this point, different partners will start to favour certain teams, and by the end of the programme, you'll generally have written off a few teams informally to focus on leaders in the race.
 
 ## The Pipeline problem
-The startup and accelerator bubble have created a pipeline problem.  There are more and more accelerators on the market, attracting more and more people to create startups. Overall, this is a great thing!  But for your accelerator, you'll be competing with other accelerators for novice startup founders who mostly see accelerators as a commodity service, or worse, a necessary evil to get funded.  In the past, accelerators all had thousands of applications, so it was possible to select 10 solid, investable teams from the pipeline.  Now, it's common to have several hundred applications.  Pickings are slim.
+The startup and accelerator bubble have created a pipeline problem.  There are more and more accelerators on the market, attracting more and more people to create startups. Overall, this is a great thing!  But for your accelerator, you'll be competing with other accelerators for novice startup founders who mostly see accelerators as a commodity service, or worse, a necessary evil to get funded.  
+
+In the past, accelerators all had thousands of applications, so it was possible to select 10 solid, investable teams from the pipeline.  Now, it's common to have several hundred applications.  Pickings are slim.
+
+Developing a strong pipeline is the single hardest, and single most important thing to get right with your accelerator.
 
 ## Reputation
-The exception to this rule are the accelerators that have built a solid reputation among their alumni.  The most savvy entrepreneurs - the ones you want - work through reputation and introduction. They learn from existing alumni, not from the brand accelerator's portray.  Founders have come to distrust websites citing a long list of mentors - who they know probably won't show up - or industry accolades.  These techniques only attract the least investable - reputation is what counts.
+Reputation among founders is the best way to build a pipeline to the best startups. 
+
+That's why the accelerators that can demonstrate consistent big wins have built a solid reputation among their alumni.  Y Combinator, Seedcamp, 500 Startups. The most savvy entrepreneurs - the ones you want - work through reputation and introduction. They make their decisions by talking to existing alumni, not from your brand, PR, or events you sponsor.  Founders have come to distrust websites citing a long list of mentors - who they know probably won't show up. Equally, founders know that industry accolades and endorsement from tech press are fake. They're talking to everyone who's already in the know.  These techniques only attract the least investible, the tourists and hipster wannabes. Reputation is what counts.
 
 ## Roadshows & fishing
-In these conditions, opening your doors won't lead to a flood of applications. In many ways, the cohort model has become outdated, but it still serves to create a little bit of buzz so founders know you exist. But to get decent applications, accelerators need to go fishing.  This involves touring pitch events and conferences, as well as partners living on planes for weeks and months as they scour the region to find and lure in the best startups they can find.
+In these conditions, opening your doors won't lead to a flood of applications. Certainly, not the applications you need to have a successful accelerator.
+
+In many ways, the cohort model has become outdated, but it still serves to create a little bit of buzz so founders know you exist. 
+
+To get good applications, you need to go fishing.  This involves touring pitch events and conferences. Accelerator partners live on planes for weeks and months at a time as they scour the region to find and lure in the best startups they can find.
 
 ## Hacking
 Investors and founders alike are excited by big success stories, and it's become common to "hack in" winning teams.  This is when you accidentally reject a team at selection, or fail to attract a great team to apply.  In these cases, the startup usually negotiates a more favourable deal than your standard offer, and enters the programme late.  This allows accelerators to show their success overall, but the hacking is usually kept quiet since that success wouldn't be attributed to the support itself.
 
 ## Mentors that don't show up
-The Techstars accelerator model depends heavily on having engaged mentors, willing to make time to visit on mentor days, and open their door for further support.  As the accelerator model has proliferated, it's placed a huge demand on a small group of mentors.  The result: it's common to see mentor days with a 50% attendance rate from mentors.
+The Techstars accelerator model depends heavily on having engaged mentors, willing to make time to visit on mentor days, and open their door for further support.  As the accelerator model has proliferated, it's placed a huge demand on a small group of mentors.  The result: it's common to see mentor days with a 50% attendance rate from mentors. No shows are common, and follow-ups are rare. 
+
+Even in the most repuatable programmes, where mentor days are still overflowing with mentors, the quality of mentoring is low.  Mentors are often attracted by being associated to the accelerator's name, and mentor days turn into pitch events where founders pump mentors for industry and investor connections.
+
+The only way around this is to take the time to match-make. Focus on a small number of mentors that are truely engaged with specific startups in your programme.
 
 # Acceleration Goals 
 Now that we have a clear picture of the situation, we can see why custom designing a programme around our goals will have a tremendous effect on our efficiency.  This way, we can pick our battles and strip away costly commitments that don't add much.
