@@ -129,16 +129,22 @@ Even in the most repuatable programmes, where mentor days are still overflowing 
 The only way around this is to take the time to match-make. Focus on a small number of mentors that are truely engaged with specific startups in your programme.
 
 # Acceleration Goals 
-Now that we have a clear picture of the situation, we can see why custom designing a programme around our goals will have a tremendous effect on our efficiency.  This way, we can pick our battles and strip away costly commitments that don't add much.
+Now that we have a clear picture of the situation, we can see that a lot of the traditional accelerator model amounts to a lot of effort for almost no results.
+
+Custom designing a programme around our goals will have a tremendous effect on our efficiency.  This way, we can pick our battles and strip away costly commitments that don't add much.
 
 So let's start with our goals, our startups goals, and work our way backwards to find where we can be most effective.
 
 
-## What Does Accelerated Mean For Your Teams? 
+## What Does 'I Was Accelerated' Mean? 
 
-From the founder's perspective, what goal or milestone can we make happen sooner? The standard accelerator model takes the onward funding round as that goal - bringing it to 3 months instead of 12+ months.
+From the founder's perspective, what goal or milestone can we make happen sooner? The standard accelerator model takes the onward funding round as that goal - bringing it to 3 months instead of 12+ months. But for your programme, the main goal might be different.
 
-For your startups, the goal doesn't have to be a funding round, but it should be a founder goal that is clearly defined, such as an early client, a loan, or a validated business model. It doesn't even need to be objective or measurable, as long as you can somehow evaluate it. A clear definition of this goal will help make other design decisions, and will be the bedrock for improvement with every cohort.
+Start by thinking about what success looks like to your organisation after your first successful cohort. What type of startups do you wish you'd have attracted to your accelerator? How would they help your organisation? 
+
+Now, look to earlier stage companies on the same path. These are your startups. What's their common goal?
+
+For your startups, the goal doesn't have to be a funding round, but it should be a goal that is clearly defined, such as an high-profile client, a loan, or a money-making business model. It doesn't even need to be objective or measurable, as long as you can somehow evaluate it. A clear definition of this goal will help make other design decisions, and will be the bedrock for improvement with every cohort.
 
 ## Lower Lead Time 
 
@@ -306,6 +312,7 @@ If your job is to get the best mentors for each of your startups, how can you ma
 ## Equity 
 
 When truly assessing the success factors for founders, many accelerators have chosen not to take equity. This improves the quality of applicants, and allows the programme to focus on what matters to everyone. In the case of Microsoft, the benefits come from participating with the startups; key employees learning by helping, visibility of coming trends, helping their corporate customers be more innovative through startup intros, and helping more startups use their products. These benefits are multiplied substantially by the increased competition to enter the accelerator since it doesn't cost equity.
+
 
 # Peer support 
 
