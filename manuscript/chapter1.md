@@ -81,7 +81,7 @@ The most successful accelerators add value beyond pitch practice and an investor
 It's one thing to design an accelerator on paper, and quite another to run them in practice.  Let's dig in behind the scenes a bit, and look at what some of the unspoken truths:
 
 ## Accelerators mean long hours
-No matter how much you plan in advance, or how large your team, you're going to face long hours.  On top of scheduling everything, taking care of the legals and getting your teams settled in, almost everything will be a moving target.  Each startup will be 
+No matter how much you plan in advance, or how large your team, you're going to face long hours.  On top of scheduling everything, taking care of the legals and getting your teams settled in, almost everything will be a moving target.  Each startup will be on its own path, and will need different types of support from you at different times.
 
 ## Selection is a black art
 In spite of investment theses and modelling and research, selection usually comes down to arbitrary and committee decisions. After hearing pitches, you'll have a long meeting, making in-or-out calls, often on gut feeling.  These decisions force you to predict the future on very little information. They're the most crucial decisions you'll make in the entire programme, and they're irreversible.
@@ -109,11 +109,6 @@ Now that we have a clear picture of the situation, we can see why custom designi
 
 So let's start with our goals, our startups goals, and work our way backwards to find where we can be most effective.
 
-*What specific goals do you have in common with your founders?*
-
-From the founder's perspective, what goal or milestone can we make happen sooner? The standard accelerator model takes the onward funding round as that goal - bringing it to 3 months instead of 12+ months.
-
-For your startups, the goal doesn't have to be a funding round, but it should be a founder goal that is clearly defined, such as an early client, a loan, or a validated business model. It doesn't even need to be objective or measurable, as long as you can somehow evaluate it. A clear definition of this goal will help make other design decisions, and will be the bedrock for improvement with every cohort.   
 
 ## What Does Accelerated Mean For Your Teams? 
 
@@ -145,7 +140,7 @@ We've found that a special type of regular meeting can help too, where we simply
 
 ## What Defines Progress? What Attitude And Culture Do You Want Around This? 
 
-hese. If they're reporting on up-and-to-the-right metrics, these will turn into corporate presentations, where the teams feel they are "reporting to their boss" only sharing the good news, and leaving out more ambitious goals to show they're achieving their targets.
+If you ask startups to report on up-and-to-the-right metrics (aggregate numbers that can only really go up, like cumulative revenue or number of customers), these will turn into corporate presentations. The teams feel they are "reporting to their boss" only sharing the good news, and leaving out more ambitious goals. If the culture you create is around showing they're achieving their targets, you'll get success theatre, rather than a more open and supportive culture where it's safe to try and fail at more ambitious targets.
 
 If you're looking for founders to make frequent course corrections, for example, it makes sense to ask them to report on learning goals. A metrics focus tends to lead to optimisation activities, whereas learning goals keeps the focus on fundamentals.
 
@@ -157,7 +152,9 @@ You'll notice the culture will form fairly quickly as the cohort coalesces. Ther
 
 2. Plant seeds in terms of storytelling and hero worship. Ask in founders for dinner to share their war stories. Ask them to be inclusive - welcoming the cohort to their club. Read biographies of founders you'd like to see emulated - and tell "did you know?" stories. Print posters with startup advice, or even imgur memes if appropriate. Get strong quotes printed as vinyl decals for your wall, like in museums.
 
-3. Be sensitive to your own behaviour, especially in the first few weeks of the programme. It's worth being clear and direct in terms of expectations from the outset. My typical advice is: "You're all expected to multiply your valuation by 5 or more in the next 90 days. This means you'll have to aim for big leaps and learn each week - if you're stuck on something for 2 weeks, you're probably a goner. You'll have to get rid of lead times, like waiting for customers or advisors to reply - put the programme to work by asking for the connections you'll need. And you'll be expected to support each other, spot when another startup is stuck and dislodge them." If you catch yourself reprimanding or commanding teams, you'll risk ending up with a primary-school dynamic with your teams, rather than the one that emphasises taking responsibility and being open.
+3. Be sensitive to your own behaviour, especially in the first few weeks of the programme. It's worth being clear and direct in terms of expectations from the outset. 
+
+My typical advice is: "You're all expected to multiply your valuation by 5 or more in the next 90 days. This means you'll have to aim for big leaps and learn each week - if you're stuck on something for 2 weeks, you're probably a goner. You'll have to get rid of lead times, like waiting for customers or advisors to reply - put the programme to work by asking for the connections you'll need. And you'll be expected to support each other, spot when another startup is stuck and dislodge them." If you catch yourself reprimanding or commanding teams, you'll risk ending up with a primary-school dynamic with your teams, rather than the one that emphasises taking responsibility and being open.
     
 
 # Design For Responsiveness 
