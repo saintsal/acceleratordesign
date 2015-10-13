@@ -8,16 +8,19 @@ Over the years, clients have asked us to design their programmes. We continue to
 
 We've seen accelerators move startups faster and help founders achieve their goals countless times. And we've been a driving force in evolving the accelerator model.
 
-## How to create an accelerator that fits
+## How to create an accelerator that accelerates
 
 As the accelerator industry blossoms, the accelerator model is being applied in far more diverse contexts, like creative businesses, industry verticals, corporate R&D, and niche markets. 
 
-For most first-time accelerators, there's a bias towards copying the existing 3-month model, but most don't know the reasons it exists. We'll start with this, explaining the history of accelerators and helping you filter out which aspects are relevant in your context.
+For most first-time accelerators, there's a bias towards copying the existing 3-month model, but most don't know the reasons it exists. 
 
-The standard accelerator model (and definition) doesn't always apply - programmes must be redesigned, and lessons learned are valuable to share between all the variations that are emerging.
+The typical accelerator model is optimised around the needs of early-stage investors supporting university students keen to start Internet companies.
 
-We'll also share lessons from our own accelerator projects in farther-reaching contexts, like accelerators for freelancers, developing economies, and corporates with strategic goals that don't involve startup equity.
+In almost all other contexts, this model is inappropriate and extremely ineffecient, a fact only clear to people after they've already run their first batch. Hardware, freelancers, industry verticals, developing economies, ecosystem building, corporates with strategic goals - they all have particular goals that *require* a custom design.
 
+We've designed successful accelerators in most of these contexts, and been close to others who've done the same.
+
+We wrote this guide to share these lessons learned, so you have the best start possible.
 
 Salim Virani
 Founder, Source Institute
