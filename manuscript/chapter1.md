@@ -351,10 +351,18 @@ This guide is intended as a living document. If it's valuable, it will evolve as
      - Design considerations
         - Programme length
         - Energy-levels
+     - Attracting teams
+        - Brand
+        - Reputation
+        - Alumni
+        - Referal networks
+        - Angel networks
+        - Accelerator Tourists
      -Selection
         - Brand
         - Criteria
         - Interview / pitch techniques
+        - Team explosions
     -Education
         - Alumni & mentor formats
         - Location
